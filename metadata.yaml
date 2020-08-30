@@ -7,12 +7,17 @@ contributor:
     gutenberg_agent_id: '7671'
     url: http://www.gutenberg.org/2009/agents/7671
     wikipedia: https://en.wikipedia.org/wiki/Walter_S._Rogers
+covers:
+- cover_type: archival
+  image_path: 63029-h/images/cover.jpg
 creator:
   author:
     agent_name: Barnum, Richard
     gutenberg_agent_id: '3820'
     url: http://www.gutenberg.org/2009/agents/3820
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63029#Shaggo-the-Mighty-Buffalo-His-Many-Adventures
 gutenberg_issued: '2020-08-24'
 gutenberg_type: Text
 identifiers:
